@@ -30,4 +30,4 @@ Minhas tecnologias em estudos são:
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pluizgpolido&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizgpolido&show_icons=true)
