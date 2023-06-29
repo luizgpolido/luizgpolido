@@ -24,3 +24,4 @@ Minhas tecnologias em estudos são:
 
 ## ⭐ Informações sobre minha conta GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizgpolido&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgpolido&layout=compact)
