@@ -1,19 +1,14 @@
 ##  Olá, meu nome é <strong>Luiz!</strong>
 
-> Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela.
+>Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FAM. Atualmente estou buscando ampliar meus conhecimentos de forma a me colocar no mercado de trabalho em uma oportunidade de estágio, focado em <strong> Back-End </strong>;
 
-    <p>Atualmente estou estudando: </p>
-    <ul>
-  <li>Java Core</li>
-  <li>SQL and NoSQL</li>
-  <li>Linux - RHEL</li>
-  <li>Scrum</li>
-</ul>
+Minhas tecnologias em estudos são:
 
-
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+☕Java Core
+🐬SQL and NoSQL
+🐧Linux by RHEL Academy
+🌀Scrum and Agile Methods 
+🐋Docker
 
 ----
 
@@ -35,4 +30,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pluizgpolido&show_icons=true)
