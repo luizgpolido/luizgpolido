@@ -1,6 +1,6 @@
 ##  Olá, meu nome é <strong>Luiz!</strong>
 
->Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela FAM. Atualmente estou buscando ampliar meus conhecimentos de forma a me colocar no mercado de trabalho em uma oportunidade de estágio, focado em <strong> Back-End </strong>;
+>Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Descomplica. Atualmente estou buscando ampliar meus conhecimentos de forma a me colocar no mercado de trabalho em uma oportunidade de estágio, focado em <strong> Back-End </strong>;
 
 Minhas tecnologias em estudos são:
 
