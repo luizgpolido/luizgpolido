@@ -22,3 +22,4 @@ Minhas tecnologias em estudos são:
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgpolido&layout=compact)
