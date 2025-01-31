@@ -4,9 +4,9 @@
 
 Minhas tecnologias em estudos são:
 
-⚙️JavaScript
-♾️CI/CD
-🐧Linux
+⚙️JavaScript <br>
+♾️CI/CD <br>
+🐧Linux <br>
 🤖Cypress | Selenium | RestAssured
 ----
 
